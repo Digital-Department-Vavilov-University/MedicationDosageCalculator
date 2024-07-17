@@ -1,0 +1,9 @@
+C:\Users\Юрий Грепечук\source\repos\MedicationDosageCalculator\MedicationDosageCalculator\obj\Debug\MedicationDosageCalculator.csproj.AssemblyReference.cache
+C:\Users\Юрий Грепечук\source\repos\MedicationDosageCalculator\MedicationDosageCalculator\obj\Debug\MedicationDosageCalculator.Properties.Resources.resources
+C:\Users\Юрий Грепечук\source\repos\MedicationDosageCalculator\MedicationDosageCalculator\obj\Debug\MedicationDosageCalculator.csproj.GenerateResource.cache
+C:\Users\Юрий Грепечук\source\repos\MedicationDosageCalculator\MedicationDosageCalculator\obj\Debug\MedicationDosageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Юрий Грепечук\source\repos\MedicationDosageCalculator\MedicationDosageCalculator\bin\Debug\MedicationDosageCalculator.exe.config
+C:\Users\Юрий Грепечук\source\repos\MedicationDosageCalculator\MedicationDosageCalculator\bin\Debug\MedicationDosageCalculator.exe
+C:\Users\Юрий Грепечук\source\repos\MedicationDosageCalculator\MedicationDosageCalculator\bin\Debug\MedicationDosageCalculator.pdb
+C:\Users\Юрий Грепечук\source\repos\MedicationDosageCalculator\MedicationDosageCalculator\obj\Debug\MedicationDosageCalculator.exe
+C:\Users\Юрий Грепечук\source\repos\MedicationDosageCalculator\MedicationDosageCalculator\obj\Debug\MedicationDosageCalculator.pdb
